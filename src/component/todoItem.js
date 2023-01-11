@@ -3,11 +3,10 @@ import React from "react";
 function TodoItem(){
     return(
         <div>
-            <h1>Todo Items</h1>
             <ul>
-                <li>eat</li>
-                <li>code</li>
-                <li>sleep</li>
+                <li>item 1</li>
+                <li>item 2</li>
+                <li>item 3</li>
             </ul>
         </div>
     )
